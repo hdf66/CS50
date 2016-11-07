@@ -1,0 +1,9 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+0. (3x3:9x9)
+1. The board is represented by a two dimensional array
+2. greet
+3. init(), draw(), move(), won()
